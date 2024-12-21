@@ -122,7 +122,7 @@ const Red = () => {
           href="https://www.linkedin.com/in/nav1dzaman01"
           target="_blank"
         >
-          <img src="/src/assets/in.png" alt="LinkedIn" className="h-12 " />
+          <img src="in.png" alt="LinkedIn" className="h-12 " />
         </a>
       </div>
 
